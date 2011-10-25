@@ -1,0 +1,4 @@
+core = ../rdfgears.core
+rest = ../rdfgears.rest
+ui = ../rdfgears.ui
+
