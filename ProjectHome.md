@@ -1,0 +1,1 @@
+RDF Gears is a workflow system for integration and transformation of RDF data. It combines the Semantic Web world (RDF, SPARQL) with the Named Nested Relational Calculus.
